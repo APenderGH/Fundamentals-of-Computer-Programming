@@ -1,0 +1,15 @@
+C:\Users\ssamu\Desktop\Book Solutions\AgeIn10Years\AgeIn10Years\bin\Debug\net6.0\AgeIn10Years.exe
+C:\Users\ssamu\Desktop\Book Solutions\AgeIn10Years\AgeIn10Years\bin\Debug\net6.0\AgeIn10Years.deps.json
+C:\Users\ssamu\Desktop\Book Solutions\AgeIn10Years\AgeIn10Years\bin\Debug\net6.0\AgeIn10Years.runtimeconfig.json
+C:\Users\ssamu\Desktop\Book Solutions\AgeIn10Years\AgeIn10Years\bin\Debug\net6.0\AgeIn10Years.dll
+C:\Users\ssamu\Desktop\Book Solutions\AgeIn10Years\AgeIn10Years\bin\Debug\net6.0\AgeIn10Years.pdb
+C:\Users\ssamu\Desktop\Book Solutions\AgeIn10Years\AgeIn10Years\obj\Debug\net6.0\AgeIn10Years.csproj.AssemblyReference.cache
+C:\Users\ssamu\Desktop\Book Solutions\AgeIn10Years\AgeIn10Years\obj\Debug\net6.0\AgeIn10Years.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssamu\Desktop\Book Solutions\AgeIn10Years\AgeIn10Years\obj\Debug\net6.0\AgeIn10Years.AssemblyInfoInputs.cache
+C:\Users\ssamu\Desktop\Book Solutions\AgeIn10Years\AgeIn10Years\obj\Debug\net6.0\AgeIn10Years.AssemblyInfo.cs
+C:\Users\ssamu\Desktop\Book Solutions\AgeIn10Years\AgeIn10Years\obj\Debug\net6.0\AgeIn10Years.csproj.CoreCompileInputs.cache
+C:\Users\ssamu\Desktop\Book Solutions\AgeIn10Years\AgeIn10Years\obj\Debug\net6.0\AgeIn10Years.dll
+C:\Users\ssamu\Desktop\Book Solutions\AgeIn10Years\AgeIn10Years\obj\Debug\net6.0\refint\AgeIn10Years.dll
+C:\Users\ssamu\Desktop\Book Solutions\AgeIn10Years\AgeIn10Years\obj\Debug\net6.0\AgeIn10Years.pdb
+C:\Users\ssamu\Desktop\Book Solutions\AgeIn10Years\AgeIn10Years\obj\Debug\net6.0\AgeIn10Years.genruntimeconfig.cache
+C:\Users\ssamu\Desktop\Book Solutions\AgeIn10Years\AgeIn10Years\obj\Debug\net6.0\ref\AgeIn10Years.dll

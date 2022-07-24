@@ -1,0 +1,15 @@
+C:\Users\ssamu\Desktop\Book Solutions\FirstNameandLastName\FirstNameandLastName\bin\Debug\net6.0\FirstNameandLastName.exe
+C:\Users\ssamu\Desktop\Book Solutions\FirstNameandLastName\FirstNameandLastName\bin\Debug\net6.0\FirstNameandLastName.deps.json
+C:\Users\ssamu\Desktop\Book Solutions\FirstNameandLastName\FirstNameandLastName\bin\Debug\net6.0\FirstNameandLastName.runtimeconfig.json
+C:\Users\ssamu\Desktop\Book Solutions\FirstNameandLastName\FirstNameandLastName\bin\Debug\net6.0\FirstNameandLastName.dll
+C:\Users\ssamu\Desktop\Book Solutions\FirstNameandLastName\FirstNameandLastName\bin\Debug\net6.0\FirstNameandLastName.pdb
+C:\Users\ssamu\Desktop\Book Solutions\FirstNameandLastName\FirstNameandLastName\obj\Debug\net6.0\FirstNameandLastName.csproj.AssemblyReference.cache
+C:\Users\ssamu\Desktop\Book Solutions\FirstNameandLastName\FirstNameandLastName\obj\Debug\net6.0\FirstNameandLastName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssamu\Desktop\Book Solutions\FirstNameandLastName\FirstNameandLastName\obj\Debug\net6.0\FirstNameandLastName.AssemblyInfoInputs.cache
+C:\Users\ssamu\Desktop\Book Solutions\FirstNameandLastName\FirstNameandLastName\obj\Debug\net6.0\FirstNameandLastName.AssemblyInfo.cs
+C:\Users\ssamu\Desktop\Book Solutions\FirstNameandLastName\FirstNameandLastName\obj\Debug\net6.0\FirstNameandLastName.csproj.CoreCompileInputs.cache
+C:\Users\ssamu\Desktop\Book Solutions\FirstNameandLastName\FirstNameandLastName\obj\Debug\net6.0\FirstNameandLastName.dll
+C:\Users\ssamu\Desktop\Book Solutions\FirstNameandLastName\FirstNameandLastName\obj\Debug\net6.0\refint\FirstNameandLastName.dll
+C:\Users\ssamu\Desktop\Book Solutions\FirstNameandLastName\FirstNameandLastName\obj\Debug\net6.0\FirstNameandLastName.pdb
+C:\Users\ssamu\Desktop\Book Solutions\FirstNameandLastName\FirstNameandLastName\obj\Debug\net6.0\FirstNameandLastName.genruntimeconfig.cache
+C:\Users\ssamu\Desktop\Book Solutions\FirstNameandLastName\FirstNameandLastName\obj\Debug\net6.0\ref\FirstNameandLastName.dll

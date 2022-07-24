@@ -1,0 +1,15 @@
+C:\Users\ssamu\Desktop\Book Solutions\CurrentDateandTime\CurrentDateandTime\bin\Debug\net6.0\CurrentDateandTime.exe
+C:\Users\ssamu\Desktop\Book Solutions\CurrentDateandTime\CurrentDateandTime\bin\Debug\net6.0\CurrentDateandTime.deps.json
+C:\Users\ssamu\Desktop\Book Solutions\CurrentDateandTime\CurrentDateandTime\bin\Debug\net6.0\CurrentDateandTime.runtimeconfig.json
+C:\Users\ssamu\Desktop\Book Solutions\CurrentDateandTime\CurrentDateandTime\bin\Debug\net6.0\CurrentDateandTime.dll
+C:\Users\ssamu\Desktop\Book Solutions\CurrentDateandTime\CurrentDateandTime\bin\Debug\net6.0\CurrentDateandTime.pdb
+C:\Users\ssamu\Desktop\Book Solutions\CurrentDateandTime\CurrentDateandTime\obj\Debug\net6.0\CurrentDateandTime.csproj.AssemblyReference.cache
+C:\Users\ssamu\Desktop\Book Solutions\CurrentDateandTime\CurrentDateandTime\obj\Debug\net6.0\CurrentDateandTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssamu\Desktop\Book Solutions\CurrentDateandTime\CurrentDateandTime\obj\Debug\net6.0\CurrentDateandTime.AssemblyInfoInputs.cache
+C:\Users\ssamu\Desktop\Book Solutions\CurrentDateandTime\CurrentDateandTime\obj\Debug\net6.0\CurrentDateandTime.AssemblyInfo.cs
+C:\Users\ssamu\Desktop\Book Solutions\CurrentDateandTime\CurrentDateandTime\obj\Debug\net6.0\CurrentDateandTime.csproj.CoreCompileInputs.cache
+C:\Users\ssamu\Desktop\Book Solutions\CurrentDateandTime\CurrentDateandTime\obj\Debug\net6.0\CurrentDateandTime.dll
+C:\Users\ssamu\Desktop\Book Solutions\CurrentDateandTime\CurrentDateandTime\obj\Debug\net6.0\refint\CurrentDateandTime.dll
+C:\Users\ssamu\Desktop\Book Solutions\CurrentDateandTime\CurrentDateandTime\obj\Debug\net6.0\CurrentDateandTime.pdb
+C:\Users\ssamu\Desktop\Book Solutions\CurrentDateandTime\CurrentDateandTime\obj\Debug\net6.0\CurrentDateandTime.genruntimeconfig.cache
+C:\Users\ssamu\Desktop\Book Solutions\CurrentDateandTime\CurrentDateandTime\obj\Debug\net6.0\ref\CurrentDateandTime.dll

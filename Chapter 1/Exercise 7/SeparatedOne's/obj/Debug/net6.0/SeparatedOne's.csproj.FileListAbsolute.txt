@@ -1,0 +1,15 @@
+C:\Users\ssamu\Desktop\Book Solutions\SeparatedOne's\SeparatedOne's\bin\Debug\net6.0\SeparatedOne's.exe
+C:\Users\ssamu\Desktop\Book Solutions\SeparatedOne's\SeparatedOne's\bin\Debug\net6.0\SeparatedOne's.deps.json
+C:\Users\ssamu\Desktop\Book Solutions\SeparatedOne's\SeparatedOne's\bin\Debug\net6.0\SeparatedOne's.runtimeconfig.json
+C:\Users\ssamu\Desktop\Book Solutions\SeparatedOne's\SeparatedOne's\bin\Debug\net6.0\SeparatedOne's.dll
+C:\Users\ssamu\Desktop\Book Solutions\SeparatedOne's\SeparatedOne's\bin\Debug\net6.0\SeparatedOne's.pdb
+C:\Users\ssamu\Desktop\Book Solutions\SeparatedOne's\SeparatedOne's\obj\Debug\net6.0\SeparatedOne's.csproj.AssemblyReference.cache
+C:\Users\ssamu\Desktop\Book Solutions\SeparatedOne's\SeparatedOne's\obj\Debug\net6.0\SeparatedOne's.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssamu\Desktop\Book Solutions\SeparatedOne's\SeparatedOne's\obj\Debug\net6.0\SeparatedOne's.AssemblyInfoInputs.cache
+C:\Users\ssamu\Desktop\Book Solutions\SeparatedOne's\SeparatedOne's\obj\Debug\net6.0\SeparatedOne's.AssemblyInfo.cs
+C:\Users\ssamu\Desktop\Book Solutions\SeparatedOne's\SeparatedOne's\obj\Debug\net6.0\SeparatedOne's.csproj.CoreCompileInputs.cache
+C:\Users\ssamu\Desktop\Book Solutions\SeparatedOne's\SeparatedOne's\obj\Debug\net6.0\SeparatedOne's.dll
+C:\Users\ssamu\Desktop\Book Solutions\SeparatedOne's\SeparatedOne's\obj\Debug\net6.0\refint\SeparatedOne's.dll
+C:\Users\ssamu\Desktop\Book Solutions\SeparatedOne's\SeparatedOne's\obj\Debug\net6.0\SeparatedOne's.pdb
+C:\Users\ssamu\Desktop\Book Solutions\SeparatedOne's\SeparatedOne's\obj\Debug\net6.0\SeparatedOne's.genruntimeconfig.cache
+C:\Users\ssamu\Desktop\Book Solutions\SeparatedOne's\SeparatedOne's\obj\Debug\net6.0\ref\SeparatedOne's.dll
