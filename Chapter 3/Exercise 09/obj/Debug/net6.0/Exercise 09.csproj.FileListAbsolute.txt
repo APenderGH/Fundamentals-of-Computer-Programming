@@ -1,0 +1,15 @@
+C:\Users\ssamu\Desktop\Book Solutions\Chapter 3\Exercise 09\bin\Debug\net6.0\Exercise 09.exe
+C:\Users\ssamu\Desktop\Book Solutions\Chapter 3\Exercise 09\bin\Debug\net6.0\Exercise 09.deps.json
+C:\Users\ssamu\Desktop\Book Solutions\Chapter 3\Exercise 09\bin\Debug\net6.0\Exercise 09.runtimeconfig.json
+C:\Users\ssamu\Desktop\Book Solutions\Chapter 3\Exercise 09\bin\Debug\net6.0\Exercise 09.dll
+C:\Users\ssamu\Desktop\Book Solutions\Chapter 3\Exercise 09\bin\Debug\net6.0\Exercise 09.pdb
+C:\Users\ssamu\Desktop\Book Solutions\Chapter 3\Exercise 09\obj\Debug\net6.0\Exercise 09.csproj.AssemblyReference.cache
+C:\Users\ssamu\Desktop\Book Solutions\Chapter 3\Exercise 09\obj\Debug\net6.0\Exercise 09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssamu\Desktop\Book Solutions\Chapter 3\Exercise 09\obj\Debug\net6.0\Exercise 09.AssemblyInfoInputs.cache
+C:\Users\ssamu\Desktop\Book Solutions\Chapter 3\Exercise 09\obj\Debug\net6.0\Exercise 09.AssemblyInfo.cs
+C:\Users\ssamu\Desktop\Book Solutions\Chapter 3\Exercise 09\obj\Debug\net6.0\Exercise 09.csproj.CoreCompileInputs.cache
+C:\Users\ssamu\Desktop\Book Solutions\Chapter 3\Exercise 09\obj\Debug\net6.0\Exercise 09.dll
+C:\Users\ssamu\Desktop\Book Solutions\Chapter 3\Exercise 09\obj\Debug\net6.0\refint\Exercise 09.dll
+C:\Users\ssamu\Desktop\Book Solutions\Chapter 3\Exercise 09\obj\Debug\net6.0\Exercise 09.pdb
+C:\Users\ssamu\Desktop\Book Solutions\Chapter 3\Exercise 09\obj\Debug\net6.0\Exercise 09.genruntimeconfig.cache
+C:\Users\ssamu\Desktop\Book Solutions\Chapter 3\Exercise 09\obj\Debug\net6.0\ref\Exercise 09.dll
